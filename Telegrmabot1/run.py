@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, F
 
 from app.handlers import router
-
+import rerequirements.txt
 
 
 
